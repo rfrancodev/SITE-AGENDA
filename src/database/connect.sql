@@ -1,3 +1,5 @@
+
+CREATE DATABASE empresa-site;
 -- Tabela: funcionarios
 CREATE TABLE funcionarios (
     id SERIAL PRIMARY KEY,
