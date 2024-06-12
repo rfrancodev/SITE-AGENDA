@@ -1,0 +1,14 @@
+-- /frontend
+|   |-- /css
+|   |-- /js
+|   |-- index.html
+|-- /backend
+|   |-- /images
+|   |-- /controllers / cadastro de funcionarios, cadastro de clientes, cadastro de produtos
+|   |-- /models
+|   |-- /routes
+|   |-- server.js
+|-- /database
+|   |-- connect.sql
+|-- package.json
+|-- README.md
